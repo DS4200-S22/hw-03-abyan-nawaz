@@ -1,0 +1,16 @@
+head {
+    font-family: Arial;
+}
+
+title {
+    text-align: center;
+}
+
+body {
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+    
+}
